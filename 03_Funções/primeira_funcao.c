@@ -5,7 +5,9 @@ void calcula_media2(void);
 
 int main(void){
 
-    float media = calcula_media(8.5, 7.25, 4.5);
+    float n1 = 5.5, n2 = 7.4, n3 = 8.3;
+
+    float media = calcula_media(n1, n2, n3);
 
     printf("Média: %.2f\n", media);
 
@@ -20,7 +22,7 @@ int main(void){
 
 float calcula_media(float nota1, float nota2, float nota3){
     float media;
-
+    
     media = (nota1 + nota2 + nota3) / 3;
 
     return media;
