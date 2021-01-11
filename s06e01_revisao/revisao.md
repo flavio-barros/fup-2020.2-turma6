@@ -1,0 +1,27 @@
+- Visto
+    - includes
+    - escopo (if, for, while, função)
+    - sintaxe
+        - operadores binários espaço antes e depois
+        - pontuação tem espaço DEPOIS
+        - operador unário é colado
+        - abraços são apertados
+        - indentação
+    - entrada e saida
+        - scanf
+        - printf
+        - puts
+    - tipos
+        - char, int, float, double
+    - seleção
+        - if e else
+        - switch
+    - for e while
+    - funções
+        - cópia por parâmetro
+        - debug???
+        - compilação manual
+- Para ver
+    - define
+    - bool
+    - ternário
