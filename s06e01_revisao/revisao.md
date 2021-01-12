@@ -17,11 +17,12 @@
         - if e else
         - switch
     - for e while
-    - funções
-        - cópia por parâmetro
-        - debug???
-        - compilação manual
+
 - Para ver
     - define
     - bool
     - ternário
+- funções
+    - cópia por parâmetro
+    - debug???
+    - compilação manual
