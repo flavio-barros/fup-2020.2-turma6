@@ -6,3 +6,4 @@
 - [03_funcoes](03_funcoes/Readme.md)
 - [s05e02_prova](s05e02_prova/Readme.md)
 - [s06e01_revisao](s06e01_revisao/Readme.md)
+- [s06e02_asc](s06e02_asc/Readme.md)
