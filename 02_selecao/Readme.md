@@ -1,5 +1,3 @@
-
----
 ## [comando_do-while.c](comando_do-while.c)
 
 ```c
@@ -19,7 +17,6 @@ int main(){
     return 0;
 }
 ```
-
 
 ---
 ## [comando_for.c](comando_for.c)
@@ -42,7 +39,6 @@ int main(){
     return 0;
 }
 ```
-
 
 ---
 ## [comando_if.c](comando_if.c)
@@ -76,7 +72,6 @@ int main(){
 }
 ```
 
-
 ---
 ## [comando_while.c](comando_while.c)
 
@@ -96,7 +91,6 @@ int main(){
 }
 ```
 
-
 ---
 ## [comandos_break_continue.c](comandos_break_continue.c)
 
@@ -115,7 +109,6 @@ int main(){
     return 0;
 }
 ```
-
 
 ---
 ## [exemplo_fatorial_while.c](exemplo_fatorial_while.c)
@@ -154,7 +147,6 @@ int main(){
 }
 ```
 
-
 ---
 ## [exemplo_media_n_notas.c](exemplo_media_n_notas.c)
 
@@ -191,7 +183,6 @@ int main(){
 }
 ```
 
-
 ---
 ## [exemplo_media_ponderada_n_notas.c](exemplo_media_ponderada_n_notas.c)
 
@@ -207,7 +198,6 @@ int main(){
     return 0;
 }
 ```
-
 
 ---
 ## [exemplo_media_resultado.c](exemplo_media_resultado.c)
@@ -261,7 +251,6 @@ int main(){
     return 0;
 }
 ```
-
 
 ---
 ## [exemplo_numero_perfeito.c](exemplo_numero_perfeito.c)
@@ -318,7 +307,6 @@ int main(){
 }
 ```
 
-
 ---
 ## [exemplo_temperatura.c](exemplo_temperatura.c)
 
@@ -342,7 +330,6 @@ int main(){
     return 0;
 }
 ```
-
 
 ---
 ## [operador_condicional.c](operador_condicional.c)
@@ -368,3 +355,4 @@ int main(){
 }
 ```
 
+---

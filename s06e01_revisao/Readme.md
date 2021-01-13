@@ -1,5 +1,3 @@
-
----
 ## [cartas.c](cartas.c)
 
 ```c
@@ -40,7 +38,6 @@ int main(){
 }
 ```
 
-
 ---
 ## [conversoes.c](conversoes.c)
 
@@ -62,7 +59,6 @@ int main(){
     return 0;
 }
 ```
-
 
 ---
 ## [revisao.c](revisao.c)
@@ -114,7 +110,6 @@ const char * zerim_ou_um(int op1, int op2, int op3){
 }
 ```
 
-
 ---
 ## [teste.c](teste.c)
 
@@ -155,3 +150,4 @@ int main (){
 }
 ```
 
+---

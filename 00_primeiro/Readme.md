@@ -1,5 +1,3 @@
-
----
 ## [primeiro_programa.c](primeiro_programa.c)
 
 ```c
@@ -13,3 +11,4 @@ int main(){
 }
 ```
 
+---

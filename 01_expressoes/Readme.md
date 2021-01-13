@@ -1,5 +1,3 @@
-
----
 ## [exemplo_media_aritmetica.c](exemplo_media_aritmetica.c)
 
 ```c
@@ -28,7 +26,6 @@ int main(){
     return 0;
 }
 ```
-
 
 ---
 ## [exemplo_media_ponderada.c](exemplo_media_ponderada.c)
@@ -77,7 +74,6 @@ int main(){
 }
 ```
 
-
 ---
 ## [operadores_aritmeticos.c](operadores_aritmeticos.c)
 
@@ -101,7 +97,6 @@ int main(){
     return 0;
 }
 ```
-
 
 ---
 ## [operadores_atribuicao.c](operadores_atribuicao.c)
@@ -131,7 +126,6 @@ int main(){
 }
 ```
 
-
 ---
 ## [operadores_incremento_decremento.c](operadores_incremento_decremento.c)
 
@@ -151,7 +145,6 @@ int main(){
     return 0;
 }
 ```
-
 
 ---
 ## [operadores_relacionais.c](operadores_relacionais.c)
@@ -180,7 +173,6 @@ int main(){
 }
 ```
 
-
 ---
 ## [printf.c](printf.c)
 
@@ -201,7 +193,6 @@ int main(){
 }
 ```
 
-
 ---
 ## [scanf.c](scanf.c)
 
@@ -220,7 +211,6 @@ int main(){
     return 0;
 }
 ```
-
 
 ---
 ## [variaveis.c](variaveis.c)
@@ -259,3 +249,4 @@ int main(){
 }
 ```
 
+---
