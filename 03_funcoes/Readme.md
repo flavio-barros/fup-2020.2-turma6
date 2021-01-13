@@ -1,3 +1,5 @@
+
+---
 ## [exemplo_funcoes.c](exemplo_funcoes.c)
 
 ```c
@@ -60,6 +62,8 @@ int palindromo(int n){
 }
 ```
 
+
+---
 ## [fatorial.c](fatorial.c)
 
 ```c
@@ -91,6 +95,8 @@ int fat(int n){
 }
 ```
 
+
+---
 ## [macros.c](macros.c)
 
 ```c
@@ -111,6 +117,8 @@ int main(){
 }
 ```
 
+
+---
 ## [primeira_funcao.c](primeira_funcao.c)
 
 ```c
@@ -162,6 +170,8 @@ void calcula_media2(void){
 }
 ```
 
+
+---
 ## [questao_2.c](questao_2.c)
 
 ```c
@@ -198,6 +208,8 @@ int soma_impares(int n){
 }
 ```
 
+
+---
 ## [variavel_estatica.c](variavel_estatica.c)
 
 ```c
@@ -224,6 +236,8 @@ void exemplo(void){
 
 ```
 
+
+---
 ## [variavel_global.c](variavel_global.c)
 
 ```c
