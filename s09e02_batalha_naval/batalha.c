@@ -50,14 +50,32 @@ int contar_acertos(bool barcos[], bool tiros[], int size){
             cont += 1;
     return cont;
 }
+//parametros sempre são passados por cópia
+//vetores são passados por endereço
+int atualizar_pontos(bool barcos[], bool tiros[], int size, int pos, int pontos){
+    if(!tiros[pos])
+        pontos += barcos[pos] ? 1 : -1;
+    tiros[pos] = true;
+    printf("pontos: %d\n", pontos);
+    return pontos;
+}
+
+int pegar_chute_do_usuario(int size){
+    int pos = -1;
+    do{
+        printf("Onde voce quer atirar: ");
+        scanf("%d", &pos);
+    }while(pos < 0 || pos >= size);
+    return pos;
+}
+
 
 void jogar(bool barcos[], bool tiros[], int size, int n_barquinhos){
+    int pontos = 0;
     while(contar_acertos(barcos, tiros, size) < n_barquinhos){
         mostrar_campo(barcos, tiros, size);
-        printf("Onde voce quer atirar: ");
-        int pos = -1;
-        scanf("%d", &pos);
-        tiros[pos] = true;
+        int pos = pegar_chute_do_usuario(size);
+        pontos = atualizar_pontos(barcos, tiros, size, pos, pontos);
     }
 }
 
